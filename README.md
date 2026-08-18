@@ -90,7 +90,7 @@ dataset. Correcting the depth moved it to 0.9185.
 
 **Repository:** https://github.com/vinita000/ml-assignment-diseased-soybean-plant
 
-**Live Streamlit App:** <FILL IN — deploy on Streamlit Community Cloud and paste the resulting https://your-app.streamlit.app URL here>
+**Live Streamlit App:** https://ml-assignment-diseased-soybean-plant-e6fhq5wncu6hjziq5yglsd.streamlit.app/
 
 ```
 ml-assignment-2/
